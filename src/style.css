@@ -1,0 +1,66 @@
+/* The whole website page */
+body{
+    background-color: #212121;
+    color: #fffbf5;
+    font-family: 'Oswald', sans-serif !important;
+    background-image: url("../src/components/images/pexels-fwstudio-172292.jpg");
+    background-size: 100%;
+}
+
+
+/*The header section */
+.HeaderRow{
+    background-color: #0c0c0eb8;
+    text-shadow:#4f8100 2px 2px 5px;
+}
+
+.Logo{
+    font-size: xxx-large;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+
+
+/*The body section */
+.GroceryFoodCategory{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-shadow:#000000 2px 2px 5px;
+}
+
+.GroceryFoodCategoryButton{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* .GroceryHeaderRow{
+    background-color: #0c0c0eb8;
+} */
+
+
+
+
+/*The itemcart section */
+.ItemCart{
+    padding: 50px;
+}
+
+
+.checkoutContainer{
+    background-color: #0c0c0ee7;
+    border-radius: 5px;
+}
+
+.itemContainer{
+    padding-top: 50px;
+    margin-left: 100px;
+}
+
+.numberofItems{
+    position: relative;
+}
+
+.priceRow{
+    background-color: #0c0c0eb8;
+}
